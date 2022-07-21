@@ -2,6 +2,8 @@
 <h3 align="center">Data Scientist | Machine Learning Engineer | Quantitative Analyst</h3>
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Quantitative Analysis, Python, SQL**
+- 🌱 Interested in opportunities at the intersection of Data Science and web3 and open to collaboration
+- 🌱 Background in traditional finance
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
